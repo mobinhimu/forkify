@@ -1,0 +1,24 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "source": "index.html",
+  "description": "",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.9.1",
+    "process": "^0.11.10",
+    "sass": "^1.62.1"
+  },
+  "dependencies": {
+    "core-js": "^3.30.2",
+    "fractional": "^1.0.0",
+    "regenerator-runtime": "^0.13.11",
+    "vite": "^4.3.9"
+  }
+}
